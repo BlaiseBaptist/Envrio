@@ -1,5 +1,6 @@
-# Observations
+# Bio-bottle
+## Observations
 | time | Observation|
 | - | - | 
-| pre sealing | duck weed on water with very high turbidtdy due to dirt | 
+| Pre-sealing | duck weed on water with very high turbidity due to dirt | 
 | 0 | the exact same expect it is a little more shaken |
