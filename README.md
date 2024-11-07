@@ -1,6 +1,6 @@
 # Bio-bottle
 ## Observations
-| Time of Observations | Observation |
+| Time of Observation | Observation |
 | -- | -- | 
 | Day 0 Pre-sealing | Duck weed on water with very high turbidity due to dirt |
 | Day 0 Post-sealing | The exact same expect it is a little more shaken |
