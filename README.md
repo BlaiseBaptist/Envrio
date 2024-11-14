@@ -15,7 +15,7 @@ The 2 liter coke bottle was first sealed on 10/22. Everything except for the duc
 
 ## Observations
 
-| Time of Observation | Observation |
+|<span id="T1"> Time of Observation </span>| Observation |
 | -- | -- |
 | 11/5 Day 0 Pre-sealing | Duck weed on water with very high turbidity due to dirt |
 | 11/5 Day 0 Post-sealing | The exact same expect it is a little more shaken |
@@ -25,9 +25,9 @@ The 2 liter coke bottle was first sealed on 10/22. Everything except for the duc
 | 11/12 Day 7 | A ton of dead and alive. Looks like there is an egg at the bottom. Water has gotten warmer each day, will take it out of direct sunlight to let it cool off. There is some tracks on the side of the bottle. Still **No** sign of Kevin ☹. |
 | 11/14 Day 9 | Very hot even thought it was not in direct sunlight because of the radiator this probably caused Mayor Keven and **THREE** others: Pizza Delivery Kevin, City Engineer Kevin, **and** Attorney General Kevin to all come above the duck weed to and be seen. Will move to other place then on radiator|
 
-<span id="T1">Table 1</span>
+Table 1
 
-| Organism | Count | Reason | Source | Expected Food |
+|<span id="T2"> Organism </span>| Count | Reason | Source | Expected Food |
 | -- | :--: | -- | -- | -- |
 | Slug | 2 | Eat the dead leaves | picked off of leaves collected from the creek | dead leaves|
 | Larva | 4-7 | Need something to be alive and adding more different things give a better chance of having something alive at the end | picked off of leaves collected from the creek | Primary consumer |
@@ -35,7 +35,7 @@ The 2 liter coke bottle was first sealed on 10/22. Everything except for the duc
 | Mushroom | 1 | I thought it is a primary producer | Wynnewood PA yard | The sun |
 | Snail | 4 | Didn't think i added any | might have come from the creek or the pond | Didn't expect them |
 
-<span id="T2">Table 2</span>
+Table 2
 
 [Table 1]: README.md#T1
 [Table 2]: README.md#T2
