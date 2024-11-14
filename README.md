@@ -1,15 +1,17 @@
+[Table 1]
+[Table 2]
 # Bio-bottle
 
 ## Introduction
 
 ## Plan
 
-A 2 liter coke bottle sealed with a balloon and tape. The bottle was used to create an freshwater aquatic environment. There is some nonliving things in the environment include: rocks, dirt, dead leaves from the creek on 10/22. The water used is from the same creek in Wynnewood PA as the rest of the bottle and tap water from the school water fountain. The Major organisms in the observed entering the environment are in [table 2].
+A 2 liter coke bottle sealed with a balloon and tape. The bottle was used to create an freshwater aquatic environment. There is some nonliving things in the environment include: rocks, dirt, dead leaves from the creek on 10/22. The water used is from the same creek in Wynnewood PA as the rest of the bottle and tap water from the school water fountain. The Major organisms in the observed entering the environment are in [Table 2].
 
 
 ## Construction
 
-The 2 liter coke bottle was first sealed on 10/22. Everything except for the duck weed was added on 10/22. It was opened on 10/24 to collect more dirt and mulch for the bottle. It was resealed on 10/24. It was opened on 10/28 to add duck weed. It sealed 10/28 again for the final time. The organisms added and data abound them are in [table 2]. I didn't expect to add duckweed to the bottle because I expected there to be enough algae, moss and other plant matter already in the bottle.
+The 2 liter coke bottle was first sealed on 10/22. Everything except for the duck weed was added on 10/22. It was opened on 10/24 to collect more dirt and mulch for the bottle. It was resealed on 10/24. It was opened on 10/28 to add duck weed. It sealed 10/28 again for the final time. The organisms added and data abound them are in [Table 2]. I didn't expect to add duckweed to the bottle because I expected there to be enough algae, moss and other plant matter already in the bottle.
 
 ## Observations
 
@@ -33,7 +35,7 @@ The 2 liter coke bottle was first sealed on 10/22. Everything except for the duc
 | Mushroom | 1 | I thought it is a primary producer | Wynnewood PA yard | The sun |
 | Snail | 4 | Didn't think i added any | might have come from the creek or the pond | Didn't expect them |
 
-<span id="T2">Table 2</span>
+<span id="Table 2">Table 2</span>
 
-[table 1]: README.md#T1
-[table 2]: README.md#T2
+[Table 1]: README.md#T1
+[Table 2]: "README.md#Table 2"
