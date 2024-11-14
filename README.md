@@ -1,7 +1,7 @@
-[Table 1]
-[Table 2]
 # Bio-bottle
 
+[Table 1]
+[Table 2]
 ## Introduction
 
 ## Plan
@@ -35,7 +35,7 @@ The 2 liter coke bottle was first sealed on 10/22. Everything except for the duc
 | Mushroom | 1 | I thought it is a primary producer | Wynnewood PA yard | The sun |
 | Snail | 4 | Didn't think i added any | might have come from the creek or the pond | Didn't expect them |
 
-<span id="Table 2">Table 2</span>
+<span id="T2">Table 2</span>
 
 [Table 1]: README.md#T1
-[Table 2]: "README.md#Table 2"
+[Table 2]: README.md#T2
