@@ -1,13 +1,10 @@
 # Bio-bottle
 
-[Table 1]
-[Table 2]
 ## Introduction
 
 ## Plan
 
 A 2 liter coke bottle sealed with a balloon and tape. The bottle was used to create an freshwater aquatic environment. There is some nonliving things in the environment include: rocks, dirt, dead leaves from the creek on 10/22. The water used is from the same creek in Wynnewood PA as the rest of the bottle and tap water from the school water fountain. The Major organisms in the observed entering the environment are in [Table 2].
-
 
 ## Construction
 
@@ -27,15 +24,14 @@ The 2 liter coke bottle was first sealed on 10/22. Everything except for the duc
 
 Table 1
 
-|<span id="T2"> Organism </span>| Count | Reason | Source | Expected Food |
+|<span id="T2"> Organism </span>| Count / Amount | Reason | Source | Expected Food |
 | -- | :--: | -- | -- | -- |
-| Slug | 2 | Eat the dead leaves | picked off of leaves collected from the creek | dead leaves|
-| Larva | 4-7 | Need something to be alive and adding more different things give a better chance of having something alive at the end | picked off of leaves collected from the creek | Primary consumer |
+| Slug | 2 | Eat the dead leaves and be alive | Picked off of leaves collected from the creek | dead leaves|
+| Larva | 4-7 | Be alive| Picked off of leaves collected from the creek | Primary consumer |
 | Duck weed | 2 * 10<sup>-5</sup>m<sup>3</sup> | Primary producer that is very good at growing so it will be alive at the end | Pond in Byrn Mawr PA | The sun |
 | Mushroom | 1 | I thought it is a primary producer | Wynnewood PA yard | The sun |
 | Snail | 4 | Didn't think i added any | might have come from the creek or the pond | Didn't expect them |
 
 Table 2
 
-[Table 1]: README.md#T1
 [Table 2]: README.md#T2
