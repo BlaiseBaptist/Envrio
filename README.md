@@ -4,15 +4,12 @@
 
 ## Plan
 
-A 2 liter coke bottle sealed with a balloon and tape was used to create an freshwater aquatic environment. There is some nonliving things in the environment include: rocks, dirt, dead leaves, and creek and tap water. The Major organisms in the observed entering the environment are in [table 1].
+A 2 liter coke bottle sealed with a balloon and tape. The bottle was used to create an freshwater aquatic environment. There is some nonliving things in the environment include: rocks, dirt, dead leaves from the creek on 10/22. The water used is from the same creek in Wynnewood PA as the rest of the bottle and tap water from the school water fountain. The Major organisms in the observed entering the environment are in [table 2].
 
-| Organism | Count |
-| -- | :--: |
-| slug | 2 |
-| larva | 4-7 |
-| duck weed | 2 * 10<sup>-5</sup>m<sup>3</sup>
 
-<span id="T1">Table 1</span>
+## Construction
+
+The 2 liter coke bottle was first sealed on 10/22. Everything except for the duck weed was added on 10/22. It was opened on 10/24 to collect more dirt and mulch for the bottle. It was resealed on 10/24. It was opened on 10/28 to add duck weed. It sealed 10/28 again for the final time. The organisms added and data abound them are in [table 2]. I didn't expect to add duckweed to the bottle because I expected there to be enough algae, moss and other plant matter already in the bottle.
 
 ## Observations
 
@@ -26,4 +23,17 @@ A 2 liter coke bottle sealed with a balloon and tape was used to create an fresh
 | 11/12 Day 7 | A ton of dead and alive. Looks like there is an egg at the bottom. Water has gotten warmer each day, will take it out of direct sunlight to let it cool off. There is some tracks on the side of the bottle. Still **No** sign of Kevin ☹. |
 | 11/14 Day 9 | Very hot even thought it was not in direct sunlight because of the radiator this probably caused Mayor Keven and **THREE** others: Pizza Delivery Kevin, City Engineer Kevin, **and** Attorney General Kevin to all come above the duck weed to and be seen. Will move to other place then on radiator|
 
+<span id="T1">Table 1</span>
+
+| Organism | Count | Reason | Source | Expected Food |
+| -- | :--: | -- | -- | -- |
+| Slug | 2 | Eat the dead leaves | picked off of leaves collected from the creek | dead leaves|
+| Larva | 4-7 | Need something to be alive and adding more different things give a better chance of having something alive at the end | picked off of leaves collected from the creek | Primary consumer |
+| Duck weed | 2 * 10<sup>-5</sup>m<sup>3</sup> | Primary producer that is very good at growing so it will be alive at the end | Pond in Byrn Mawr PA | The sun |
+| Mushroom | 1 | I thought it is a primary producer | Wynnewood PA yard | The sun |
+| Snail | 4 | Didn't think i added any | might have come from the creek or the pond | Didn't expect them |
+
+<span id="T2">Table 2</span>
+
 [table 1]: README.md#T1
+[table 2]: README.md#T2
