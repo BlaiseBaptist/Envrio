@@ -3,7 +3,7 @@
 ## Introduction
 
 ## Plan
-
+[tasks](#T1)
 A 2 liter coke bottle sealed with a balloon and tape. The bottle was used to create an freshwater aquatic environment. There is some nonliving things in the environment include: rocks, dirt, dead leaves from the creek on 10/22. The water used is from the same creek in Wynnewood PA as the rest of the bottle and tap water from the school water fountain. The Major organisms in the observed entering the environment are in [Table 2].
 
 ## Construction
@@ -12,7 +12,7 @@ The 2 liter coke bottle was first sealed on 10/22. Everything except for the duc
 
 ## Observations
 
-|<span id="T1"> Time of Observation </span>| Observation |
+|Time of Observation| Observation |
 | -- | -- |
 | 11/5 Day 0 Pre-sealing | Duck weed on water with very high turbidity due to dirt |
 | 11/5 Day 0 Post-sealing | The exact same expect it is a little more shaken |
@@ -24,9 +24,11 @@ The 2 liter coke bottle was first sealed on 10/22. Everything except for the duc
 | 11/18 Day 13 | cooled down lowering pressure in bottle to below the starting temperature meaning there was some air leakage. About 4 times the amount of duckweed by volume. **Big** shell floating at the top under the duckweed. Mayor Kevin is bigger and faster. |
 | 11/19 Day **14** *Final Day* | Mayor Kevin is above the duckweed. Snow globe effect with decomposing things. |
 
+<a name="T1">
 Table 1
+</a>
 
-|<span id="T2"> Organism </span>| Count / Amount | Reason | Source | Expected Food |
+| Organism | Count / Amount | Reason | Source | Expected Food |
 | -- | :--: | -- | -- | -- |
 | Slug | 2 | Eat the dead leaves and be alive | Picked off of leaves collected from the creek | dead leaves|
 | Larva | 4-7 | Be alive| Picked off of leaves collected from the creek | Primary consumer |
