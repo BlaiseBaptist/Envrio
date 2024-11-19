@@ -3,16 +3,16 @@
 ## Introduction
 
 ## Plan
-[tasks](#T1)
-A 2 liter coke bottle sealed with a balloon and tape. The bottle was used to create an freshwater aquatic environment. There is some nonliving things in the environment include: rocks, dirt, dead leaves from the creek on 10/22. The water used is from the same creek in Wynnewood PA as the rest of the bottle and tap water from the school water fountain. The Major organisms in the observed entering the environment are in [Table 2].
+
+A 2 liter coke bottle sealed with a balloon and tape. The bottle was used to create an freshwater aquatic environment. There is some nonliving things in the environment include: rocks, dirt, dead leaves from the creek on 10/22. The water used is from the same creek in Wynnewood PA as the rest of the bottle and tap water from the school water fountain. The Major organisms in the observed entering the environment are in [Table 2](#T2).
 
 ## Construction
 
-The 2 liter coke bottle was first sealed on 10/22. Everything except for the duckweed was added on 10/22. It was opened on 10/24 to collect more dirt and mulch for the bottle. It was resealed on 10/24. It was opened on 10/28 to add duckweed. It sealed 10/28 again for the final time. The organisms added and data abound them are in [Table 2]. I didn't expect to add duckweed to the bottle because I expected there to be enough algae, moss and other plant matter already in the bottle.
+The 2 liter coke bottle was first sealed on 10/22. Everything except for the duckweed was added on 10/22. It was opened on 10/24 to collect more dirt and mulch for the bottle. It was resealed on 10/24. It was opened on 10/28 to add duckweed. It sealed 10/28 again for the final time. The organisms added and data abound them are in [Table 2](#T2). I didn't expect to add duckweed to the bottle because I expected there to be enough algae, moss and other plant matter already in the bottle.
 
 ## Observations
 
-|Time of Observation| Observation |
+| <a name="T1">  Time of Observation | Observation </a> |
 | -- | -- |
 | 11/5 Day 0 Pre-sealing | Duck weed on water with very high turbidity due to dirt |
 | 11/5 Day 0 Post-sealing | The exact same expect it is a little more shaken |
@@ -24,11 +24,9 @@ The 2 liter coke bottle was first sealed on 10/22. Everything except for the duc
 | 11/18 Day 13 | cooled down lowering pressure in bottle to below the starting temperature meaning there was some air leakage. About 4 times the amount of duckweed by volume. **Big** shell floating at the top under the duckweed. Mayor Kevin is bigger and faster. |
 | 11/19 Day **14** *Final Day* | Mayor Kevin is above the duckweed. Snow globe effect with decomposing things. |
 
-<a name="T1">
 Table 1
-</a>
 
-| Organism | Count / Amount | Reason | Source | Expected Food |
+| <a name="T2"> Organism | Count / Amount | Reason | Source | Expected Food </a>|
 | -- | :--: | -- | -- | -- |
 | Slug | 2 | Eat the dead leaves and be alive | Picked off of leaves collected from the creek | dead leaves|
 | Larva | 4-7 | Be alive| Picked off of leaves collected from the creek | Primary consumer |
@@ -38,4 +36,3 @@ Table 1
 
 Table 2
 
-[Table 2]: README.md#T2
