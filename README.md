@@ -21,7 +21,8 @@ The 2 liter coke bottle was first sealed on 10/22. Everything except for the duc
 | 11/11 Day 6 | Very similar. Biggest difference is that more of the duckweed is the water. Kevin is **GONE**.|
 | 11/12 Day 7 | A ton of dead and alive. Looks like there is an egg at the bottom. Water has gotten warmer each day, will take it out of direct sunlight to let it cool off. There is some tracks on the side of the bottle. Still **No** sign of Kevin ☹. |
 | 11/14 Day 9 | Very hot even thought it was not in direct sunlight because of the radiator this probably caused Mayor Keven and **THREE** others: Pizza Delivery Kevin, City Engineer Kevin, **and** Attorney General Kevin to all come above the duckweed to and be seen. Will move to other place then on radiator|
-| 11/18 Day 13 *Final Day* | cooled down lowering pressure in bottle to below the starting temperature meaning there was some air leakage. About 4 times the amount of duckweed by volume. **Big** shell floating at the top under the duckweed. Mayor Kevin is bigger and faster. |
+| 11/18 Day 13 | cooled down lowering pressure in bottle to below the starting temperature meaning there was some air leakage. About 4 times the amount of duckweed by volume. **Big** shell floating at the top under the duckweed. Mayor Kevin is bigger and faster. |
+| 11/19 Day **14** *Final Day* | Mayor Kevin is above the duckweed. Snow globe effect with decomposing things. |
 
 Table 1
 
