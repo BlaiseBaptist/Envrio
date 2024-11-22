@@ -35,4 +35,3 @@ Table 1
 | Snail | 4 | Didn't think i added any | might have come from the creek or the pond | Didn't expect them |
 
 Table 2
-
