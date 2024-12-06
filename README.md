@@ -1,7 +1,5 @@
 # Bio-bottle
 
-## Introduction
-
 ## Plan
 
 A 2 liter coke bottle sealed with a balloon and tape. The bottle was used to create an freshwater aquatic environment. There is some nonliving things in the environment include: rocks, dirt, dead leaves from the creek on 10/22. The water used is from the same creek in Wynnewood PA as the rest of the bottle and tap water from the school water fountain. The Major organisms in the observed entering the environment are in [Table 2](#T2). The main reason the bio-bottle will work is primary because of the duckweed due to its high rate of reproduction so it will very likely take over the entire bottle and make sure that there is enough available energy for the low number of consumers in the bottle
