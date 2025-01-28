@@ -38,3 +38,6 @@ Table 1
 | Snail | 4 | Didn't think I added any | might have come from the creek or the pond | Didn't expect them |
 
 Table 2
+
+<img src="https://github.com/BlaiseBaptist/Envrio/blob/78af68e05c89a33a95d7a36deb382f156719a29e/Food%20Web.png">
+<img src="https://github.com/BlaiseBaptist/Envrio/blob/78af68e05c89a33a95d7a36deb382f156719a29e/Light%20energy%20chart.png">
