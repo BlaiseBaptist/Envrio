@@ -1,5 +1,7 @@
 # Bio-bottle
 
+## Introduction
+
 ## Plan
 
 A 2 liter coke bottle sealed with a balloon and tape. The bottle was used to create an freshwater aquatic environment. There is some nonliving things in the environment include: rocks, dirt, dead leaves from the creek on 10/22. The water used is from the same creek in Wynnewood PA as the rest of the bottle and tap water from the school water fountain. The Major organisms in the observed entering the environment are in [Table 2](#T2). The main reason the bio-bottle will work is primary because of the duckweed due to its high rate of reproduction so it will very likely take over the entire bottle and make sure that there is enough available energy for the low number of consumers in the bottle
@@ -7,6 +9,9 @@ A 2 liter coke bottle sealed with a balloon and tape. The bottle was used to cre
 ## Construction
 
 The 2 liter coke bottle was first sealed on 10/22. Everything except for the duckweed was added on 10/22. It was opened on 10/24 to collect more dirt and mulch for the bottle. It was resealed on 10/24. It was opened on 10/28 to add duckweed. It sealed 10/28 again for the final time. The organisms added and data abound them are in [Table 2](#T2). I didn't expect to add duckweed to the bottle because I expected there to be enough algae, moss and other plant matter already in the bottle.
+
+## Conclusion
+At the end of the project some of my organisms were still alive mainly the snails and the plants. With at least 4 snails alive however I couldn't find them in the bottle. The plants in my bottle, duckweed was doing very good and had covered the entire top of my bottle. What I learn from the project is that the duck weed is very good at growing in many conditions. The snails are also very resilient because the water in the bottle got very hot on day 9 when it was left on the radiator.
 
 ## Observations
 
@@ -30,12 +35,6 @@ Table 1
 | Larva | 4-7 | Be alive| Picked off of leaves collected from the creek | Primary consumer |
 | Duck weed | 2 * 10<sup>-5</sup>m<sup>3</sup> | Primary producer that is very good at growing so it will be alive at the end | Pond in Byrn Mawr PA | The sun |
 | Mushroom | 1 | I thought it is a primary producer | Wynnewood PA yard | The sun |
-| Snail | 4 | Didn't think i added any | might have come from the creek or the pond | Didn't expect them |
+| Snail | 4 | Didn't think I added any | might have come from the creek or the pond | Didn't expect them |
 
 Table 2
-
-<img src="https://github.com/BlaiseBaptist/Envrio/blob/78af68e05c89a33a95d7a36deb382f156719a29e/Food%20Web.png">
-
-<img src="https://github.com/BlaiseBaptist/Envrio/blob/78af68e05c89a33a95d7a36deb382f156719a29e/Light%20energy%20chart.png">
-
-
